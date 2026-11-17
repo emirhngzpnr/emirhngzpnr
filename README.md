@@ -8,7 +8,7 @@ My current learning focus is C# and the .NET ecosystem. My portfolio also includ
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [Credit Calculator & Application Management](https://github.com/emirhngzpnr/CreditCalculatorApi) | Developed during my VakıfBank internship: loan calculations, application workflows, asynchronous risk evaluation, and monitoring. | C#, ASP.NET Core, Angular, SQL Server, Kafka, MongoDB |
+| [Credit Calculator & Application Management](https://github.com/emirhngzpnr/CreditCalculatorApi) | Developed during my VakıfBank internship: loan calculations, application workflows, asynchronous risk evaluation, and monitoring with Prometheus and Grafana. | C#, ASP.NET Core, Angular, SQL Server, Kafka, MongoDB, Prometheus, Grafana |
 | [RentGrid](https://github.com/emirhngzpnr/ai-car-rental-saas) | Multi-tenant car rental demo: tenant isolation, reservation concurrency, payment idempotency, and AI-assisted search. [Demo](https://rentgrid.online) | Java, Spring Boot, Angular, PostgreSQL, Kafka, Redis, Spring AI |
 | [Haulmetry](https://github.com/emirhngzpnr/haulmetry) | Vehicle telemetry backend exploring event ordering, concurrent processing, trip management, and reliable delivery. | Java, Spring Boot, PostgreSQL, Kafka, WebSocket |
 | [FinSQL Banking System](https://github.com/emirhngzpnr/FinSQL-Banking-System) | Collaborative academic project modeling banking operations with relational constraints and transaction-safe stored procedures. | SQL Server, T-SQL |
@@ -18,7 +18,6 @@ My current learning focus is C# and the .NET ecosystem. My portfolio also includ
 - **C# / .NET:** strengthening my C# skills and deepening my understanding of backend development with ASP.NET Core.
 - **Haulmetry:** improving telemetry ordering and event delivery, using ETS2 as a development data source.
 - **[Knowledge-graph diagnosis research](https://github.com/emirhngzpnr/ddxplus-kg-diagnosis):** exploring GraphSAGE on DDXPlus in an experimental graduation project.
-- **FÜKampüs:** contributing feed and campaign modules to a collaborative Flutter campus application.
 
 ## Engineering interests
 
